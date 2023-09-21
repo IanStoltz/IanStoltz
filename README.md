@@ -12,7 +12,7 @@
  <a href="https://www.linkedin.com/in/ianrstoltz098/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/irs.music/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/technic.ian" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:ian.rstoltz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:ian.rstoltz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ## <h3 align="left"> ⚙️ Linguagens e ferramentas </h3>
@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" width="40" height="35" />
- 
+
 ## <h3 align="left"> 📝 Cursos que realizei </h3>
  - Agile explorer at IBM
  - Communication, Sales and Crisis Management Techniques at IBM
@@ -41,3 +41,6 @@
  - Statistical Analysis in R at UFSCAR
  - Technical problem solving at IBM
  - Web development fundamentelas at IBM
+
+#
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IanStoltz&label=Profile%20views&color=0e75b6&style=flat" alt="IanStoltz profile views" /> </p>
