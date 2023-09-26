@@ -23,13 +23,13 @@
 ## <h3 align = "left"> 📱 Redes sociais </h3> 
 <p align = "left">
  <a href="https://www.linkedin.com/in/ianrstoltz098/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"> </a> &nbsp; &nbsp;
- <a href="https://www.instagram.com/irs.music/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height = "35" width="35"></a> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
  <a href="https://discordapp.com/users/technic.ian" target="_blank" rel="noreferrer">
-  <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" height = "35" width="35"></a> &nbsp; &nbsp;
-   <a href = "mailto:ian.rstoltz@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height = "35" width="35"></a> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+ <a href="https://www.instagram.com/technic.ian/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+ <a href = "mailto:ian.rstoltz@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 
 ## <h3 align="left"> 📝 Cursos que realizei </h3>
