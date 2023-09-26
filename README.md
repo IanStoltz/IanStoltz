@@ -7,18 +7,6 @@
  - 🌱 Atualmente estou migrando para desenvolvimento.
  - 💬 Acredito que o conhecimento é a ferramenta mais poderosa para mudar o mundo!
 
-## <h3 align = "left">📱 Minhas redes sociais</h3> 
-<p align = "left">
- <a href="https://www.linkedin.com/in/ianrstoltz098/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" width="40" height="40"> </a> &nbsp;
- <a href="https://www.instagram.com/irs.music/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank" height = "39" width="40"></a> &nbsp;
- <a href="https://discordapp.com/users/technic.ian" target="_blank">
-  <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" target="_blank" height = "40" width="40"></a> &nbsp;
-   <a href = "mailto:ian.rstoltz@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" target="_blank" height = "39" width="40"></a> &nbsp;
-</p>
-
 ## <h3 align="left"> ⚙️ Linguagens e ferramentas </h3>
 <p align="left"> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -31,6 +19,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> &nbsp;
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" width="40" height="35" /> &nbsp;
+
+## <h3 align = "left"> 📱 Redes sociais </h3> 
+<p align = "left">
+ <a href="https://www.linkedin.com/in/ianrstoltz098/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"> </a> &nbsp; &nbsp;
+ <a href="https://www.instagram.com/irs.music/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height = "35" width="35"></a> &nbsp; &nbsp;
+ <a href="https://discordapp.com/users/technic.ian" target="_blank" rel="noreferrer">
+  <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" height = "35" width="35"></a> &nbsp; &nbsp;
+   <a href = "mailto:ian.rstoltz@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height = "35" width="35"></a> &nbsp; &nbsp;
+
 
 ## <h3 align="left"> 📝 Cursos que realizei </h3>
  - Agile explorer at IBM
