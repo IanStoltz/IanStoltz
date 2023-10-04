@@ -39,21 +39,24 @@
    <a href = "mailto:ian.rstoltz@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height = "35" width="35"></a> &nbsp; &nbsp;
 
+#
 
-## <h3 align="left"> 📝 Cursos que realizei </h3>
- - Agile explorer at IBM
- - Communication, Sales and Crisis Management Techniques at IBM
- - Cybersecurity fundamentals at IBM
- - Digital customer support by IBM
- - Exploring emerging tech at IBM
- - IT fundamentals at IBM
- - Match (in progress) at Mastertech in partnership with IBM
- - OOP in Python at IBM
- - Python for Data Science at IBM
- - Python fundamentals at IBM
- - Statistical Analysis in R at UFSCAR
- - Technical problem solving at IBM
- - Web development fundamentals at IBM
+<details>
+ <summary> <h3 align="left"> 📝 Cursos que realizei </h3> </summary>
+  - Agile explorer at IBM <br>
+  - Communication, Sales and Crisis Management Techniques at IBM <br>
+  - Cybersecurity fundamentals at IBM <br>
+  - Digital customer support by IBM <br>
+  - Exploring emerging tech at IBM <br>
+  - IT fundamentals at IBM <br>
+  - Match (in progress) at Mastertech in partnership with IBM <br>
+  - OOP in Python at IBM <br>
+  - Python for Data Science at IBM <br>
+  - Python fundamentals at IBM <br>
+  - Statistical Analysis in R at UFSCAR <br>
+  - Technical problem solving at IBM <br>
+  - Web development fundamentals at IBM
+</details>
 
 #
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IanStoltz&label=Profile%20views&color=0e75b6&style=flat" alt="IanStoltz profile views" /> </p>
