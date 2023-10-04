@@ -41,9 +41,9 @@
 
 #
 
-<h3 align="left"> 📝 Cursos que realizei </h3>
+<h3 align="left"> 📝Meu aprendizado </h3>
 <details>
- <summary> Cursos </summary>
+ <summary> <h4> Cursos realizados </h4> </summary>
   - Agile explorer at IBM <br>
   - Communication, Sales and Crisis Management Techniques at IBM <br>
   - Cybersecurity fundamentals at IBM <br>
