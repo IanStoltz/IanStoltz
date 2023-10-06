@@ -34,7 +34,7 @@
 <p align = "left">
  <a href="https://www.linkedin.com/in/ianrstoltz098/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"> </a> &nbsp; &nbsp;
- <a href="https://www.instagram.com/irs.music/" target="_blank" rel="noreferrer">
+ <a href="https://www.instagram.com/technic.ian/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height = "35" width="35"></a> &nbsp; &nbsp;
  <a href="https://discordapp.com/users/technic.ian" target="_blank" rel="noreferrer">
   <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" height = "35" width="35"></a> &nbsp; &nbsp;
