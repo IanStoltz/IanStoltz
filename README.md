@@ -50,6 +50,7 @@
   - Communication, Sales and Crisis Management Techniques at IBM <br>
   - Cybersecurity fundamentals at IBM <br>
   - Data Analysis with Python by IBM <br>
+  - Data Visualization with Python by IBM <br>
   - Digital customer support by IBM <br>
   - Exploring emerging tech at IBM <br>
   - IT fundamentals at IBM <br>
