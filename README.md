@@ -1,10 +1,10 @@
 <h1 align="center">Olá, coder! ✌️ Bem vindo ao meu perfil</h1>
 <h2 align="left">🗨 Sobre mim:</h2>
 
- - 🎓 Sou formado em Biologia pela Pontifícia Universidade Católica do Paraná.
+ - 🎓 Sou formado em Biologia pela PUCPR.
  - 👨‍💻 Sou suporte técnico de TI desde 2020. Focado em atendimento ao cliente, presencial e remoto.
  - 🖥️ Realizo manutenções, instalações (hardware, software e sistemas), configurações de rede e soluciono problemas.
- - 🌱 Atualmente estou migrando para desenvolvimento.
+ - 🌱 Atualmente estou migrando para a área de dados.
  - 💬 Acredito que o conhecimento é a ferramenta mais poderosa para mudar o mundo!
 
 ## <h3 align="left"> ⚙️ Linguagens e ferramentas </h3>
