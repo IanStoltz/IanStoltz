@@ -49,16 +49,14 @@
 <details>
  <summary> <h4> Cursos realizados </h4> </summary>
   - Agile explorer at IBM <br>
+  - Applied Data Science with Python at IBM <br>
   - Communication, Sales and Crisis Management Techniques at IBM <br>
   - Cybersecurity fundamentals at IBM <br>
-  - Data Analysis with Python by IBM <br>
-  - Data Visualization with Python by IBM <br>
   - Digital customer support by IBM <br>
   - Exploring emerging tech at IBM <br>
   - IT fundamentals at IBM <br>
   - Match (in progress) at Mastertech in partnership with IBM <br>
   - OOP in Python at IBM <br>
-  - Python for Data Science at IBM <br>
   - Python fundamentals at IBM <br>
   - Statistical Analysis in R at UFSCAR <br>
   - Technical problem solving at IBM <br>
