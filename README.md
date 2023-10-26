@@ -34,7 +34,7 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40" height="35"/> &nbsp;
 
-## <h3 align = "left"> 📱 Redes sociais </h3> 
+## <h3 align = "left"> 📱 Contato </h3> 
 <p align = "left">
  <a href="https://www.linkedin.com/in/ianrstoltz098/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"> </a> &nbsp; &nbsp;
