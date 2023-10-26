@@ -2,8 +2,8 @@
 <h2 align="left">🗨 Sobre mim:</h2>
 
  - 🎓 Sou formado em Biologia pela PUCPR.
- - 👨‍💻 Sou suporte técnico de TI desde 2020. Focado em atendimento ao cliente, presencial e remoto.
- - 🖥️ Realizo manutenções, instalações (hardware, software e sistemas), configurações de rede e soluciono problemas.
+ - 👨‍💻 Sou suporte técnico de TI desde 2020. Focado em assistência e atendimento ao cliente, presencial e remotamente.
+ - 🖥️ Realizo manutenções, instalações de hardware, software e sistemas, configurações de rede e soluciono problemas.
  - 🌱 Atualmente estou migrando para a área de dados.
  - 💬 Acredito que o conhecimento é a ferramenta mais poderosa para mudar o mundo!
 
