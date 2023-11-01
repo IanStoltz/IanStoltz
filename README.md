@@ -83,6 +83,13 @@
     <a href="https://www.credly.com/badges/3a66413a-44b9-49e1-97ee-9fbb93fec648/public_url" target="_blank">Certificado</a>
    </blockquote> </details>
    <details>
+    <summary> Professional Skills at IBM </summary> <br> <blockquote>
+    Conhecimento das habilidades necessárias para o bom desempenho profissional e as principais habilidades sociais necessárias na força de trabalho de tecnologia da informação. Incluindo criação e entrega de 
+    apresentações. Uso de abordagens ágeis para trabalhar profissionalmente para entregar trabalho e experiências de qualidade aos clientes. Colaboração de forma eficaz com equipes. Comunicação com impacto. Manejo de  
+    desafios de forma controlada e focada. Resolução de problemas e implementação de soluções. <br>
+    <a href="https://www.credly.com/badges/657a7408-877a-4a54-881c-e08aa4604637/public_url" target="_blank">Certificado</a>
+   </blockquote> </details>
+   <details>
     <summary> Match (in progress) at Mastertech in partnership with IBM </summary> <br> <blockquote>
      <p><b>Módulo 1</b></p>
      <details>
@@ -102,10 +109,11 @@
       Conhecimento de agilidade em processos e sua aplicação. Gestão ágil e visual. Conhecimento de processos, matrizes de prioridade, priorização e melhoria contínua.
      </blockquote> </details>
      <details>
-       <summary> Technical problem solving </summary> <br> <blockquote>
-       Resolução de problemas técnicos, troubleshoting operacional, priorização durante o suporte. Conhecimento de fluxogramas, lógica e pensamento computacional durante a decomposição de um problema com o cliente ou 
-       equipe, além de atitudes para prevenção desses problemas e também segurança ao lidar com dados. 
+      <summary> Technical problem solving </summary> <br> <blockquote>
+      Resolução de problemas técnicos, troubleshoting operacional, priorização durante o suporte. Conhecimento de fluxogramas, lógica e pensamento computacional durante a decomposição de um problema com o cliente ou 
+      equipe, além de atitudes para prevenção desses problemas e também segurança ao lidar com dados. 
      </blockquote> </details>
+    <a href="https://drive.google.com/file/d/13V4GPO-tzWYgl6DOkZkdk9_SvUqEX8-T/view?usp=sharing" target="_blank">Certificado</a>
     </blockquote> </details>
   - OOP in Python at IBM <br>
   - Python fundamentals at IBM <br>
