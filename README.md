@@ -53,109 +53,109 @@
  <summary> <h3> Cursos realizados </h3> </summary>
  
    <details> 
-     <summary> Agile explorer at IBM </summary> <br> <blockquote>
+     <summary> Agile explorer - IBM </summary> <br> <blockquote>
      Compreensão dos valores, princípios e práticas Agile que ajudam a mudar a cultura e os comportamentos na maneira como as pessoas trabalham. Pode iniciar uma conversa Ágil com membros da equipe e colegas e pode 
      aplicar o método Ágil às operações e programas de trabalho que realiza em um ambiente acadêmico ou de trabalho. <br>
      <a href="https://www.credly.com/badges/448144d1-2089-4bf1-b92b-dab26bf2825e/public_url" target="_blank">Certificado</a>
    </blockquote> </details>
    <details>
-    <summary> Applied Data Science with Python at IBM </summary> <br> <blockquote>
+    <summary> Applied Data Science with Python - IBM </summary> <br> <blockquote>
     Compreensão do uso de Jupyter e Python para ciência de dados, com capacidade de realização de análises e visualizações personalizadas de dados utilizando bibliotecas como Pandas, Scikit-learn, SciPy, Matplotlib, 
     Bokeh, Folium e Seaborn. Conhecimento das etapas essenciais para análise de dados. Conhecimento básico em machine learning. <br>
     <a href="https://www.credly.com/badges/d6f64b99-e969-47e2-ac60-9a62db593990/public_url" target="_blank">Certificado</a>
     </blockquote> </details>
    <details> 
-    <summary>Cybersecurity fundamentals at IBM </summary> <br> <blockquote>
+    <summary> Cybersecurity fundamentals - IBM </summary> <br> <blockquote>
     Conhecimentos sobre conceitos, objetivos e práticas de cibersegurança. Incluindo ameaças cibernéticas, tipos de ataques, engenharia social, estudos de caso, estratégias de segurança em geral,  
     criptografia e abordagens comuns que as organizações adotam para prevenir, detectar e responder a ataques cibernéticos. <br>
     <a href="https://www.credly.com/badges/86d97ee8-b926-4ba2-b569-ca07b2a3bda9/public_url" target="_blank">Certificado</a>
    </blockquote> </details>
    <details> 
-    <summary> Exploring emerging tech at IBM </summary> <br> <blockquote>
+    <summary> Explorando tecnologias emergentes - IBM </summary> <br> <blockquote>
     Conhecimento de tecnologias emergentes que impulsionam o mercado atual: IA, blockchain, computação em nuvem, segurança cibernética, análise de dados e IOT. O indivíduo conhece conceitos 
     fundamentais, terminologia e como as tecnologias são aplicadas para resolver problemas em organizações e negócios. <br>
     <a href="https://www.credly.com/badges/0f2089bc-6eef-4c0c-acbe-129b93943854/public_url" target="_blank">Certificado</a>
    </blockquote> </details>
-   <details>
-    <summary> IT fundamentals at IBM </summary> <br> <blockquote>
-    Conhecimento de tecnologia da informação (TI), metodologias de solução de problemas e ferramentas e recursos que os profissionais de TI usam. Compreensão de informática, redes, hardware, software, atendimento ao 
-    cliente e trabalho remoto. <br>
-    <a href="https://www.credly.com/badges/3a66413a-44b9-49e1-97ee-9fbb93fec648/public_url" target="_blank">Certificado</a>
-   </blockquote> </details>
-   <details>
-    <summary> Professional Skills at IBM </summary> <br> <blockquote>
+    <details>
+    <summary> Habilidades profissionais - IBM </summary> <br> <blockquote>
     Conhecimento das habilidades necessárias para o bom desempenho profissional e as principais habilidades sociais necessárias na força de trabalho de tecnologia da informação. Incluindo criação e entrega de 
     apresentações. Uso de abordagens ágeis para trabalhar profissionalmente para entregar trabalho e experiências de qualidade aos clientes. Colaboração de forma eficaz com equipes. Comunicação com impacto. Manejo de  
     desafios de forma controlada e focada. Resolução de problemas e implementação de soluções. <br>
     <a href="https://www.credly.com/badges/657a7408-877a-4a54-881c-e08aa4604637/public_url" target="_blank">Certificado</a>
    </blockquote> </details>
    <details>
+    <summary> IT fundamentals - IBM </summary> <br> <blockquote>
+    Conhecimento de tecnologia da informação (TI), metodologias de solução de problemas e ferramentas e recursos que os profissionais de TI usam. Compreensão de informática, redes, hardware, software, atendimento ao 
+    cliente e trabalho remoto. <br>
+    <a href="https://www.credly.com/badges/3a66413a-44b9-49e1-97ee-9fbb93fec648/public_url" target="_blank">Certificado</a>
+   </blockquote> </details>
+   <details>
     <summary> Match (in progress) at Mastertech in partnership with IBM </summary> <br> <blockquote>
      <p><b>Módulo 1</b></p>
      <details>
-      <summary> Communication, Sales and Crisis Management Techniques </summary> <br> <blockquote>   
-      Conhecimento de técnicas de comunicação não violenta, vieses de comunicação, Lei Geral de Proteção de Dados para lidar com informações pessoais e ambientais, habilidades de fala e escrita. 
+      <summary> Gestão efetiva de demandas </summary> <br> <blockquote>
+       Conhecimento de agilidade em processos e sua aplicação. Gestão ágil e visual. Conhecimento de processos, matrizes de prioridade, priorização e melhoria contínua.
      </blockquote> </details>
      <details>
-      <summary> Computer and Digital Device Operations </summary> <br> <blockquote>   
-      Conhecimento da história da computação, do funcionamento da internet, requisições web, URL's, identificação de conteúdo confiável, noções de hadware, software, arquitetura de sistemas, front e back-end.
+      <summary> Operações de computadores e dispositivos digitais </summary> <br> <blockquote>   
+       Conhecimento da história da computação, do funcionamento da internet, requisições web, URL's, identificação de conteúdo confiável, noções de hadware, software, arquitetura de sistemas, front e back-end.
      </blockquote> </details>
      <details>
-      <summary> Digital customer support </summary> <br> <blockquote>
-      Conhecimento de suporte tecnológico, demandas e aquisição de habilidades por meio de entrevistas com profissionais, conhecimento das carreiras de Help Desk, CX, CS, UI, UX.
+      <summary> Resolução de problemas técnicos </summary> <br> <blockquote>
+       Conhecimento de problemas técnicos, troubleshoting operacional, priorização durante o suporte. Conhecimento de fluxogramas, lógica e pensamento computacional durante a decomposição de um problema com o cliente ou 
+       equipe, além de atitudes para prevenção desses problemas e também segurança ao lidar com dados. 
      </blockquote> </details>
      <details>
-      <summary> Effective demand management </summary> <br> <blockquote>
-      Conhecimento de agilidade em processos e sua aplicação. Gestão ágil e visual. Conhecimento de processos, matrizes de prioridade, priorização e melhoria contínua.
+      <summary> Suporte de clientes digitais </summary> <br> <blockquote>
+       Conhecimento de suporte tecnológico, demandas e aquisição de habilidades por meio de entrevistas com profissionais, conhecimento das carreiras de Help Desk, CX, CS, UI, UX.
      </blockquote> </details>
      <details>
-      <summary> Technical problem solving </summary> <br> <blockquote>
-      Resolução de problemas técnicos, troubleshoting operacional, priorização durante o suporte. Conhecimento de fluxogramas, lógica e pensamento computacional durante a decomposição de um problema com o cliente ou 
-      equipe, além de atitudes para prevenção desses problemas e também segurança ao lidar com dados. 
+      <summary> Técnicas de comunicação, vendas e gestão de crise </summary> <br> <blockquote>   
+       Conhecimento de técnicas de comunicação não violenta, vieses de comunicação, Lei Geral de Proteção de Dados para lidar com informações pessoais e ambientais, habilidades de fala e escrita. 
      </blockquote> </details>
      <p><a href="https://drive.google.com/file/d/13V4GPO-tzWYgl6DOkZkdk9_SvUqEX8-T/view?usp=sharing" target="_blank">Certificado</a> </p>
      <p><b>Módulo 2</b></p>
-      <details>
-      <summary> Git and GitHub Fundamentals </summary> <br> <blockquote>   
+     <details>
+      <summary> Noções básicas da Internet </summary> <br> <blockquote>   
+       Conhecimento do funcionamento de internets e da world wide web. Conhecimento de conceitos como nós, pacotes, portas, latência, protocolos, servidores, IP, DNS, etc. 
+     </blockquote> </details>
+     <details>
+     <summary> Noções básicas de Git e GitHub </summary> <br> <blockquote>   
       Conhecimento dos modos de trabalho do repositório de controle de versões GitHub. Conhecimento da forma de utilização e dos principais conceitos e comandos em Git. Familiarização com a colaboração em equipe e 
       resolução de problemas.  
      </blockquote> </details>
      <details>
-      <summary> Internet Fundamentals </summary> <br> <blockquote>   
-      Conhecimento do funcionamento de internets e da world wide web. Conhecimento de conceitos como nós, pacotes, portas, latência, protocolos, servidores, IP, DNS, etc. 
+      <summary> Noções básicas de Programação </summary> <br> <blockquote>   
+       Conhecimento dos princípios nos quais se baseiam as principais linguagens de programação mais usadas atualmente, suas diferenças, vantagens e desvantagens de cada tipo. Diferenciação entre linguagens compiladas, 
+       interpretadas e seu funcionamento.
      </blockquote> </details>
      <details>
-      <summary> OOP in Python </summary> <br> <blockquote>   
-      Conhecimento da programação orientada a objetos em Python. Conhecimento de objetos e classes, construtores, linguagem unificada de modelagem (UML), herança, encapsulamento e polimorfismo. 
-     </blockquote> </details>
-     <details>
-      <summary> Programming Fundamentals </summary> <br> <blockquote>   
-      Conhecimento dos princípios nos quais se baseiam as principais linguagens de programação mais usadas atualmente, suas diferenças, vantagens e desvantagens de cada tipo. Diferenciação entre linguagens compiladas, 
-      interpretadas e seu funcionamento.
-     </blockquote> </details>
-     <details>
-      <summary> Programming in Python. Algorithms. </summary> <br> <blockquote>   
-      Conhecimento da complexidade de algoritmos, notação big-O, estrutura de dados, algoritmos de busca linear / binária e algoritmos de classificação.
-     </blockquote> </details>
-     <details>
-      <summary> Python Fundamentals </summary> <br> <blockquote>   
+     <summary> Noções básicas de Python </summary> <br> <blockquote>   
       Conhecimento da sintaxe, tipos de dados, estrutura de dados, operadores, funções, variáveis, estruturas de condição, estruturas de controle, exceções e bibliotecas da lingugagem Python. 
      </blockquote> </details>
      <details>
-      <summary> Testing with Python </summary> <br> <blockquote>   
-      Conhecimento da importância da testagem de algoritmos, principais testes de unidade e integração, bibliotecas para testes unitários e exceções assertivas.
+      <summary> Programação em Python. Algoritmos. </summary> <br> <blockquote>   
+       Conhecimento da complexidade de algoritmos, notação big-O, estrutura de dados, algoritmos de busca linear / binária e algoritmos de classificação.
+     </blockquote> </details>
+     <details>
+      <summary> Programação Orientada a Objetos em Python </summary> <br> <blockquote>   
+       Conhecimento da programação orientada a objetos em Python. Conhecimento de objetos e classes, construtores, linguagem unificada de modelagem (UML), herança, encapsulamento e polimorfismo. 
+     </blockquote> </details>
+     <details>
+      <summary> Testes com Python </summary> <br> <blockquote>   
+       Conhecimento da importância da testagem de algoritmos, principais testes de unidade e integração, bibliotecas para testes unitários e exceções assertivas.
      </blockquote> </details>
     </blockquote> </details>
    <details>
     <summary> Statistical Analysis in R at UFSCAR </summary> <br> <blockquote>
-    Conhecimentos básicos em R, tidy Data, visualização de dados, distribuições, teorema central do limite, inferências estatísticas, análise de regressão, expressões regulares e manipulação de strings.  <br>
-    <a href="https://drive.google.com/file/d/1XyWvptTxDaI6e21fAVqNifXfHUkw2b4C/view?usp=sharing" target="_blank">Certificado</a>
+     Conhecimentos básicos em R, tidy Data, visualização de dados, distribuições, teorema central do limite, inferências estatísticas, análise de regressão, expressões regulares e manipulação de strings.  <br>
+      <a href="https://drive.google.com/file/d/1XyWvptTxDaI6e21fAVqNifXfHUkw2b4C/view?usp=sharing" target="_blank">Certificado</a>
    </blockquote> </details>
    <details>
     <summary> Web development fundamentals at IBM </summary> <br> <blockquote>
-    Conhecimento de conceitos de desenvolvimento web, processos para desenvolver, implantar e testar sites, e as ferramentas e linguagens de necessárias para tal. Compreensão de como desenvolver um site interativo 
-    usando HTML, CSS e JavaScript em um ambiente de desenvolvimento integrado (IDE) <br>
-    <a href="https://www.credly.com/badges/3efa8296-b57d-4e5f-b7c3-08fef52d4263/public_url" target="_blank">Certificado</a>
+     Conhecimento de conceitos de desenvolvimento web, processos para desenvolver, implantar e testar sites, e as ferramentas e linguagens de necessárias para tal. Compreensão de como desenvolver um site interativo 
+     usando HTML, CSS e JavaScript em um ambiente de desenvolvimento integrado (IDE) <br>
+     <a href="https://www.credly.com/badges/3efa8296-b57d-4e5f-b7c3-08fef52d4263/public_url" target="_blank">Certificado</a>
    </blockquote> </details>
 </details>
 
