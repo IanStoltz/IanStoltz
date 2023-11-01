@@ -84,6 +84,11 @@
     <a href="https://www.credly.com/badges/657a7408-877a-4a54-881c-e08aa4604637/public_url" target="_blank">Certificado</a>
    </blockquote> </details>
    <details>
+    <summary> Intro to SQL - Kaggle </summary> <br> <blockquote>
+    Introdução ao SQL e BigQuery. Conhecimento do uso dos comandos Select, From, Where, Group By, Having, Count, Order By, As, With e Join <br>
+    <a href="https://www.kaggle.com/learn/certification/ianstoltz/intro-to-sql" target="_blank">Certificado</a>
+   </blockquote> </details>
+   <details>
     <summary> IT fundamentals - IBM </summary> <br> <blockquote>
     Conhecimento de tecnologia da informação (TI), metodologias de solução de problemas e ferramentas e recursos que os profissionais de TI usam. Compreensão de informática, redes, hardware, software, atendimento ao 
     cliente e trabalho remoto. <br>
