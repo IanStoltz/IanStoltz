@@ -62,16 +62,25 @@
     Compreensão do uso de Python para ciência de dados, com capacidade de realizar análises e visualizações personalizadas de dados utilizando bibliotecas como Pandas, Scikit-learn, SciPy, Matplotlib, Bokeh, Folium e  
     Seaborn. Conhecimento das etapas essenciais para análise de dados. Experiência prática no uso do Jupyter para trabalhar com Python.
    </details>
-  - Communication, Sales and Crisis Management Techniques at IBM <br>
-  - Cybersecurity fundamentals at IBM <br>
-  - Digital customer support by IBM <br>
-  - Exploring emerging tech at IBM <br>
-  - IT fundamentals at IBM <br>
-  - Match (in progress) at Mastertech in partnership with IBM <br>
+   <details> 
+    <summary>Cybersecurity fundamentals at IBM </summary> <br>
+    Conhecimentos sobre conceitos, objetivos e práticas de cibersegurança. Incluindo ameaças cibernéticas, tipos de ataques, engenharia social, estudos de caso, estratégias de segurança em geral,  
+    criptografia e abordagens comuns que as organizações adotam para prevenir, detectar e responder a ataques cibernéticos.
+   </details>
+   <details> 
+    <summary> Exploring emerging tech at IBM </summary> <br>
+    Conhecimento de tecnologias emergentes que impulsionam o mercado atual: IA, blockchain, computação em nuvem, segurança cibernética, análise de dados e IOT. O indivíduo conhece conceitos 
+    fundamentais, terminologia e como as tecnologias são aplicadas para resolver problemas em organizações e negócios.
+   </details>
+   <details>
+    <summary> IT fundamentals at IBM </summary> <br>
+    Conhecimento de tecnologia da informação (TI), metodologias de solução de problemas e ferramentas e recursos que os profissionais de TI usam. Compreensão de informática, redes, hardware, software, atendimento ao 
+    cliente, trabalho remoto
+   </details>
+  - Match (in progress) at Mastertech in partnership with IBM (Communication, Sales and Crisis Management Techniques, Digital customer support, Technical problem solving,   <br>
   - OOP in Python at IBM <br>
   - Python fundamentals at IBM <br>
   - Statistical Analysis in R at UFSCAR <br>
-  - Technical problem solving at IBM <br>
   - Web development fundamentals at IBM
   
 </details>
