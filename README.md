@@ -48,10 +48,20 @@
 #
 
 <h3 align="left"> 📝Meu aprendizado </h3>
-<details>
- <summary> <h4> Cursos realizados </h4> </summary>
-  - Agile explorer at IBM <br>
-  - Applied Data Science with Python at IBM <br>
+ <details>
+  
+ <summary> <h3> Cursos realizados </h3> </summary>
+ 
+   <details> 
+     <summary> Agile explorer at IBM </summary> <br>
+     Compreensão dos valores, princípios e práticas Agile que ajudam a mudar a cultura e os comportamentos na maneira como as pessoas trabalham. Pode iniciar uma conversa Ágil com membros da equipe e colegas e pode 
+     aplicar o método Ágil às operações e programas de trabalho que realiza em um ambiente acadêmico ou de trabalho.
+   </details>
+   <details>
+    <summary>Applied Data Science with Python at IBM </summary> <br>
+    Compreensão do uso de Python para ciência de dados, com capacidade de realizar análises e visualizações personalizadas de dados utilizando bibliotecas como Pandas, Scikit-learn, SciPy, Matplotlib, Bokeh, Folium e  
+    Seaborn. Conhecimento das etapas essenciais para análise de dados. Experiência prática no uso do Jupyter para trabalhar com Python.
+   </details>
   - Communication, Sales and Crisis Management Techniques at IBM <br>
   - Cybersecurity fundamentals at IBM <br>
   - Digital customer support by IBM <br>
@@ -63,6 +73,7 @@
   - Statistical Analysis in R at UFSCAR <br>
   - Technical problem solving at IBM <br>
   - Web development fundamentals at IBM
+  
 </details>
 
 #
