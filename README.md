@@ -87,7 +87,7 @@
      <p><b>Módulo 1</b></p>
      <details>
       <summary>Communication, Sales and Crisis Management Techniques </summary> <br> <blockquote>   
-      Conhecimento de técnicas de comunicação não violenta, vieses de comunicação, Lei Geral de Proteção de Dados para lidar com informações pessoais e ambienteais, habilidades de fala e escrita. 
+      Conhecimento de técnicas de comunicação não violenta, vieses de comunicação, Lei Geral de Proteção de Dados para lidar com informações pessoais e ambientais, habilidades de fala e escrita. 
      </blockquote> </details>
      <details>
       <summary> Computer and Digital Device Operations </summary> <br> <blockquote>   
