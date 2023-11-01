@@ -93,7 +93,7 @@
     <summary> Match (in progress) at Mastertech in partnership with IBM </summary> <br> <blockquote>
      <p><b>Módulo 1</b></p>
      <details>
-      <summary>Communication, Sales and Crisis Management Techniques </summary> <br> <blockquote>   
+      <summary> Communication, Sales and Crisis Management Techniques </summary> <br> <blockquote>   
       Conhecimento de técnicas de comunicação não violenta, vieses de comunicação, Lei Geral de Proteção de Dados para lidar com informações pessoais e ambientais, habilidades de fala e escrita. 
      </blockquote> </details>
      <details>
@@ -113,13 +113,50 @@
       Resolução de problemas técnicos, troubleshoting operacional, priorização durante o suporte. Conhecimento de fluxogramas, lógica e pensamento computacional durante a decomposição de um problema com o cliente ou 
       equipe, além de atitudes para prevenção desses problemas e também segurança ao lidar com dados. 
      </blockquote> </details>
-    <a href="https://drive.google.com/file/d/13V4GPO-tzWYgl6DOkZkdk9_SvUqEX8-T/view?usp=sharing" target="_blank">Certificado</a>
+     <p><a href="https://drive.google.com/file/d/13V4GPO-tzWYgl6DOkZkdk9_SvUqEX8-T/view?usp=sharing" target="_blank">Certificado</a> </p>
+     <p><b>Módulo 2</b></p>
+      <details>
+      <summary> Git and GitHub Fundamentals </summary> <br> <blockquote>   
+      Conhecimento dos modos de trabalho do repositório de controle de versões GitHub. Conhecimento da forma de utilização e dos principais conceitos e comandos em Git. Familiarização com a colaboração em equipe e 
+      resolução de problemas.  
+     </blockquote> </details>
+     <details>
+      <summary> Internet Fundamentals </summary> <br> <blockquote>   
+      Conhecimento do funcionamento de internets e da world wide web. Conhecimento de conceitos como nós, pacotes, portas, latência, protocolos, servidores, IP, DNS, etc. 
+     </blockquote> </details>
+     <details>
+      <summary> OOP in Python </summary> <br> <blockquote>   
+      Conhecimento da programação orientada a objetos em Python. Conhecimento de objetos e classes, construtores, linguagem unificada de modelagem (UML), herança, encapsulamento e polimorfismo. 
+     </blockquote> </details>
+     <details>
+      <summary> Programming Fundamentals </summary> <br> <blockquote>   
+      Conhecimento dos princípios nos quais se baseiam as principais linguagens de programação mais usadas atualmente, suas diferenças, vantagens e desvantagens de cada tipo. Diferenciação entre linguagens compiladas, 
+      interpretadas e seu funcionamento.
+     </blockquote> </details>
+     <details>
+      <summary> Programming in Python. Algorithms. </summary> <br> <blockquote>   
+      Conhecimento da complexidade de algoritmos, notação big-O, estrutura de dados, algoritmos de busca linear / binária e algoritmos de classificação.
+     </blockquote> </details>
+     <details>
+      <summary> Python Fundamentals </summary> <br> <blockquote>   
+      Conhecimento da sintaxe, tipos de dados, estrutura de dados, operadores, funções, variáveis, estruturas de condição, estruturas de controle, exceções e bibliotecas da lingugagem Python. 
+     </blockquote> </details>
+     <details>
+      <summary> Testing with Python </summary> <br> <blockquote>   
+      Conhecimento da importância da testagem de algoritmos, principais testes de unidade e integração, bibliotecas para testes unitários e exceções assertivas.
+     </blockquote> </details>
     </blockquote> </details>
-  - OOP in Python at IBM <br>
-  - Python fundamentals at IBM <br>
-  - Statistical Analysis in R at UFSCAR <br>
-  - Web development fundamentals at IBM
-  
+   <details>
+    <summary> Statistical Analysis in R at UFSCAR </summary> <br> <blockquote>
+    Conhecimentos básicos em R, tidy Data, visualização de dados, distribuições, teorema central do limite, inferências estatísticas, análise de regressão, expressões regulares e manipulação de strings.  <br>
+    <a href="https://drive.google.com/file/d/1XyWvptTxDaI6e21fAVqNifXfHUkw2b4C/view?usp=sharing" target="_blank">Certificado</a>
+   </blockquote> </details>
+   <details>
+    <summary> Web development fundamentals at IBM </summary> <br> <blockquote>
+    Conhecimento de conceitos de desenvolvimento web, processos para desenvolver, implantar e testar sites, e as ferramentas e linguagens de necessárias para tal. Compreensão de como desenvolver um site interativo 
+    usando HTML, CSS e JavaScript em um ambiente de desenvolvimento integrado (IDE) <br>
+    <a href="https://www.credly.com/badges/3efa8296-b57d-4e5f-b7c3-08fef52d4263/public_url" target="_blank">Certificado</a>
+   </blockquote> </details>
 </details>
 
 #
