@@ -53,31 +53,60 @@
  <summary> <h3> Cursos realizados </h3> </summary>
  
    <details> 
-     <summary> Agile explorer at IBM </summary> <br>
+     <summary> Agile explorer at IBM </summary> <br> <blockquote>
      Compreensão dos valores, princípios e práticas Agile que ajudam a mudar a cultura e os comportamentos na maneira como as pessoas trabalham. Pode iniciar uma conversa Ágil com membros da equipe e colegas e pode 
-     aplicar o método Ágil às operações e programas de trabalho que realiza em um ambiente acadêmico ou de trabalho.
-   </details>
+     aplicar o método Ágil às operações e programas de trabalho que realiza em um ambiente acadêmico ou de trabalho. <br>
+     <a href="https://www.credly.com/badges/448144d1-2089-4bf1-b92b-dab26bf2825e/public_url" target="_blank">Certificado</a>
+   </blockquote> </details>
    <details>
-    <summary>Applied Data Science with Python at IBM </summary> <br>
-    Compreensão do uso de Python para ciência de dados, com capacidade de realizar análises e visualizações personalizadas de dados utilizando bibliotecas como Pandas, Scikit-learn, SciPy, Matplotlib, Bokeh, Folium e  
-    Seaborn. Conhecimento das etapas essenciais para análise de dados. Experiência prática no uso do Jupyter para trabalhar com Python.
-   </details>
+    <summary> Applied Data Science with Python at IBM </summary> <br> <blockquote>
+    Compreensão do uso de Jupyter e Python para ciência de dados, com capacidade de realização de análises e visualizações personalizadas de dados utilizando bibliotecas como Pandas, Scikit-learn, SciPy, Matplotlib, 
+    Bokeh, Folium e Seaborn. Conhecimento das etapas essenciais para análise de dados. Conhecimento básico em machine learning. <br>
+    <a href="https://www.credly.com/badges/d6f64b99-e969-47e2-ac60-9a62db593990/public_url" target="_blank">Certificado</a>
+    </blockquote> </details>
    <details> 
-    <summary>Cybersecurity fundamentals at IBM </summary> <br>
+    <summary>Cybersecurity fundamentals at IBM </summary> <br> <blockquote>
     Conhecimentos sobre conceitos, objetivos e práticas de cibersegurança. Incluindo ameaças cibernéticas, tipos de ataques, engenharia social, estudos de caso, estratégias de segurança em geral,  
-    criptografia e abordagens comuns que as organizações adotam para prevenir, detectar e responder a ataques cibernéticos.
-   </details>
+    criptografia e abordagens comuns que as organizações adotam para prevenir, detectar e responder a ataques cibernéticos. <br>
+    <a href="https://www.credly.com/badges/86d97ee8-b926-4ba2-b569-ca07b2a3bda9/public_url" target="_blank">Certificado</a>
+   </blockquote> </details>
    <details> 
-    <summary> Exploring emerging tech at IBM </summary> <br>
+    <summary> Exploring emerging tech at IBM </summary> <br> <blockquote>
     Conhecimento de tecnologias emergentes que impulsionam o mercado atual: IA, blockchain, computação em nuvem, segurança cibernética, análise de dados e IOT. O indivíduo conhece conceitos 
-    fundamentais, terminologia e como as tecnologias são aplicadas para resolver problemas em organizações e negócios.
-   </details>
+    fundamentais, terminologia e como as tecnologias são aplicadas para resolver problemas em organizações e negócios. <br>
+    <a href="https://www.credly.com/badges/0f2089bc-6eef-4c0c-acbe-129b93943854/public_url" target="_blank">Certificado</a>
+   </blockquote> </details>
    <details>
-    <summary> IT fundamentals at IBM </summary> <br>
+    <summary> IT fundamentals at IBM </summary> <br> <blockquote>
     Conhecimento de tecnologia da informação (TI), metodologias de solução de problemas e ferramentas e recursos que os profissionais de TI usam. Compreensão de informática, redes, hardware, software, atendimento ao 
-    cliente, trabalho remoto
-   </details>
-  - Match (in progress) at Mastertech in partnership with IBM (Communication, Sales and Crisis Management Techniques, Digital customer support, Technical problem solving,   <br>
+    cliente e trabalho remoto. <br>
+    <a href="https://www.credly.com/badges/3a66413a-44b9-49e1-97ee-9fbb93fec648/public_url" target="_blank">Certificado</a>
+   </blockquote> </details>
+   <details>
+    <summary> Match (in progress) at Mastertech in partnership with IBM </summary> <br> <blockquote>
+     <p><b>Módulo 1</b></p>
+     <details>
+      <summary>Communication, Sales and Crisis Management Techniques </summary> <br> <blockquote>   
+      Conhecimento de técnicas de comunicação não violenta, vieses de comunicação, Lei Geral de Proteção de Dados para lidar com informações pessoais e ambienteais, habilidades de fala e escrita. 
+     </blockquote> </details>
+     <details>
+      <summary> Computer and Digital Device Operations </summary> <br> <blockquote>   
+      Conhecimento da história da computação, do funcionamento da internet, requisições web, URL's, identificação de conteúdo confiável, noções de hadware, software, arquitetura de sistemas, front e back-end.
+     </blockquote> </details>
+     <details>
+      <summary> Digital customer support </summary> <br> <blockquote>
+      Conhecimento de suporte tecnológico, demandas e aquisição de habilidades por meio de entrevistas com profissionais, conhecimento das carreiras de Help Desk, CX, CS, UI, UX.
+     </blockquote> </details>
+     <details>
+      <summary> Effective demand management </summary> <br> <blockquote>
+      Conhecimento de agilidade em processos e sua aplicação. Gestão ágil e visual. Conhecimento de processos, matrizes de prioridade, priorização e melhoria contínua.
+     </blockquote> </details>
+     <details>
+       <summary> Technical problem solving </summary> <br> <blockquote>
+       Resolução de problemas técnicos, troubleshoting operacional, priorização durante o suporte. Conhecimento de fluxogramas, lógica e pensamento computacional durante a decomposição de um problema com o cliente ou 
+       equipe, além de atitudes para prevenção desses problemas e também segurança ao lidar com dados. 
+     </blockquote> </details>
+    </blockquote> </details>
   - OOP in Python at IBM <br>
   - Python fundamentals at IBM <br>
   - Statistical Analysis in R at UFSCAR <br>
