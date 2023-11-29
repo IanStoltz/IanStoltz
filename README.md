@@ -150,6 +150,7 @@
       <summary> Testes com Python </summary> <br> <blockquote>   
        Conhecimento da importância da testagem de algoritmos, principais testes de unidade e integração, bibliotecas para testes unitários e exceções assertivas.
      </blockquote> </details>
+      <p><a href="https://drive.google.com/file/d/1wujzxL7hZobaz86Dvw0swjH45Vido3EW/view?usp=sharing" target="_blank">Certificado</a> </p>
     </blockquote> </details>
    <details>
     <summary> Statistical Analysis in R at UFSCAR </summary> <br> <blockquote>
