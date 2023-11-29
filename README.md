@@ -95,7 +95,7 @@
     <a href="https://www.credly.com/badges/3a66413a-44b9-49e1-97ee-9fbb93fec648/public_url" target="_blank">Certificado</a>
    </blockquote> </details>
    <details>
-    <summary> Match (in progress) at Mastertech in partnership with IBM </summary> <br> <blockquote>
+    <summary> Match at Mastertech in partnership with IBM </summary> <br> <blockquote>
      <p><b>Módulo 1</b></p>
      <details>
       <summary> Gestão efetiva de demandas </summary> <br> <blockquote>
