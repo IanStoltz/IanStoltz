@@ -152,6 +152,12 @@
      </blockquote> </details>
       <p><a href="https://drive.google.com/file/d/1wujzxL7hZobaz86Dvw0swjH45Vido3EW/view?usp=sharing" target="_blank">Certificado</a> </p>
     </blockquote> </details>
+    <details> 
+     <summary> Santander Bootcamp Cibersegurança - Santander in partnership with DIO </summary> <br> <blockquote>
+     Conhecimento dos princípios de Desenvolvimento Ágil e Colaborativo. Princípios de cibersegurança, conceitos e práticas com sistemas operacionais e máquinas virtuais. Fundamentos de rede, Deep Web e Anonimato. Testes      de invasão e busca por vulnerabilidades (pentest, engenharia social, phishing, varredura de rede, man in the middle, ransomware). Coleta e análise em segurança cibernética, enumeração de vulnerabilidades e pós 
+     exploração em sistemas comprometidos. <br>
+     <a href="https://www.dio.me/certificate/3E7A996D/share" target="_blank">Certificado</a>
+   </blockquote> </details>
    <details>
     <summary> Statistical Analysis in R at UFSCAR </summary> <br> <blockquote>
      Conhecimentos básicos em R, tidy Data, visualização de dados, distribuições, teorema central do limite, inferências estatísticas, análise de regressão, expressões regulares e manipulação de strings.  <br>
