@@ -8,7 +8,9 @@
  - 💬 Acredito que o conhecimento é a ferramenta mais poderosa para mudar o mundo!
 
 ## <h3 align="left"> ⚙️ Linguagens e ferramentas </h3>
-<p align="left"> 
+<p align="left">
+ <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="PowerBI" width="40" height="40"/> </a> &nbsp;
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> &nbsp;
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
