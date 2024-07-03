@@ -2,7 +2,7 @@
 <h2 align="left">🗨 Sobre mim:</h2>
 
  - 🎓 Sou formado em Biologia pela PUCPR.
- - 👨‍💻 Sou suporte técnico de TI desde 2020. Focado em assistência e atendimento ao cliente, presencial e remotamente.
+ - 👨‍💻 Sou analista de dados pela Peroptyx desde Abril de 2024 e suporte técnico de TI, autônomo, desde 2020.
  - 🖥️ Realizo manutenções, instalações de hardware, software e sistemas, configurações de rede e soluciono problemas.
  - 🌱 Atualmente estou migrando para a área de dados.
  - 💬 Acredito que o conhecimento é a ferramenta mais poderosa para mudar o mundo!
