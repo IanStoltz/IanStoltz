@@ -1,4 +1,4 @@
-<h1 align="center">Olá, coder! ✌️ Bem vindo ao meu perfil</h1>
+<h1 align="center">Olá! ✌️ Bem vindo ao meu perfil!</h1>
 <h2 align="left">🗨 Sobre mim:</h2>
 
  - 🎓 Sou formado em Biologia pela PUCPR. Migrei para a área de tecnologia em 2020, atuando como suporte técnico.
@@ -8,8 +8,6 @@
 
 ## <h3 align="left"> ⚙️ Linguagens e ferramentas </h3>
 <p align="left">
- <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="PowerBI" width="40" height="40"/> </a> &nbsp;
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> &nbsp;
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -20,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a> &nbsp;
  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/archive/0/01/20150219130407%21Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="40" height="40"/> </a> &nbsp;
+ <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="PowerBI" width="40" height="40"/> </a> &nbsp;
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" width="40" height="35" /> &nbsp;
  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
@@ -45,6 +45,14 @@
   <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" height = "35" width="35"></a> &nbsp; &nbsp;
    <a href = "mailto:ian.rstoltz@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height = "35" width="35"></a> &nbsp; &nbsp;
+
+#
+
+<h3 align="left"> 📂Meu portfólio </h3>
+<p>
+ Acesse clicando <a href="https://ian-stoltz.notion.site/Portf-lio-Ian-Rodrigo-Stoltz-9678c741c8914c3e8ad331278eb2cd80?pvs=74">Neste Link</a>.
+ <p>Os projetos presentes em meu porfólio também estão disponíveis aqui no GitHub.</p>
+</p>
 
 #
 
