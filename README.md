@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" height="40"/> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img alt="JavaScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;--->
 
-## <h3 align = "left"> 📱Contato </h3> 
+## <h3 align = "left"> 📱 Contato </h3> 
 <p align = "left">
  <a href="https://www.linkedin.com/in/ianrstoltz098/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"> </a> &nbsp; &nbsp;
@@ -48,7 +48,7 @@
 
 #
 
-<h3 align="left"> 📂Meu portfólio </h3>
+<h3 align="left"> 📂 Meu portfólio </h3>
 <p>
  Acesse clicando <a href="https://ian-stoltz.notion.site/Portf-lio-Ian-Rodrigo-Stoltz-9678c741c8914c3e8ad331278eb2cd80?pvs=74">Neste Link</a>.
  <p>Os projetos presentes em meu porfólio também estão disponíveis aqui no GitHub.</p>
@@ -56,7 +56,7 @@
 
 #
 
-<h3 align="left"> 📝Meu aprendizado </h3>
+<h3 align="left"> 📝 Meu aprendizado </h3>
  <details>
   
  <summary> <h3> Cursos realizados </h3> </summary>
