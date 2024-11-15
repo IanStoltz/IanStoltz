@@ -50,7 +50,7 @@
 
 <h3 align="left"> 📂 Meu portfólio </h3>
 <p>
- Acesse clicando <a href="https://ian-stoltz.notion.site/Portf-lio-Ian-Rodrigo-Stoltz-9678c741c8914c3e8ad331278eb2cd80?pvs=74">Neste Link</a>.
+ Acesse clicando <a href="https://ianstoltz.github.io/Portfolio/">Neste Link</a>.
  <p>Os projetos presentes em meu porfólio também estão disponíveis aqui no GitHub.</p>
 </p>
 
