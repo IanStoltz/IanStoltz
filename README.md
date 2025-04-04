@@ -2,8 +2,8 @@
 <h2 align="left">🗨 Sobre mim:</h2>
 
  - 🎓 Sou formado em Biologia pela PUCPR. Migrei para a área de tecnologia em 2020, atuando como suporte técnico.
- - 👨‍💻 Sou analista de dados pela Peroptyx desde Abril de 2024.
- - 🌱 Atualmente estou aprofundando meus estudos na área de análise de dados. 
+ - 👨‍💻 Sou Engenheiro de Analytics no programa Lighthouse da Indicium desde Abril de 2025. Também sou analista de dados pela Peroptyx há mais de um ano.
+ - 🌱 Atualmente estou aprofundando meus estudos na área de Analytics Engineer
  - 💬 Acredito que o conhecimento é a ferramenta mais poderosa para mudar o mundo!
 
 ## <h3 align="left"> ⚙️ Linguagens e ferramentas </h3>
